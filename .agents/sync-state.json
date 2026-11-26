@@ -50,12 +50,12 @@
     ".claude/skills/reviewing-build-plan-risk/SKILL.md": "526ebbbb869419e4229d2fb44f48f80a70f23f15",
     ".claude/skills/reviewing-pull-requests/SKILL.md": "80f3a242f95c35c3a9fa3b9b60963cad0e4320d3",
     ".claude/skills/upgrading-dependencies-and-apis/SKILL.md": "286fd219e2e28575d741a2272735a5cc5f086fc1",
-    ".github/workflows/skills-check.yml": "41e21552d6c7b0c7f74e2163db84b9d625b0a0a7",
+    ".github/workflows/skills-check.yml": "8851040d253a75711ed157939c54c2f3a7eac9dc",
     "scripts/shared_skills.py": "df8738eddfc8adfd6048728223261753e011e35d",
     "scripts/sync-skills.py": "e6ed0abe4da8ad962abf1ec596a7063b06be27a1",
     "scripts/validate-skills.py": "555ff7eb1dc9ee75257179abf5519e5d1294c2a2"
   },
   "repository_id": 1473341029,
-  "revision": "cabe87b21c6a504fb4686642f1404c86808736d5",
+  "revision": "28d1b1a1fe371b4967523c8b623c8e6aca6ed9d0",
   "schema": 1
 }
